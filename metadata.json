@@ -1,0 +1,5 @@
+{
+  "name": "Servinformación Sales Intelligence",
+  "description": "Herramienta de inteligencia de ventas que analiza dominios web para sugerir productos de Google y Servinformación, generar pitches de venta y detectar proveedores de correo (MX).",
+  "requestFramePermissions": []
+}
